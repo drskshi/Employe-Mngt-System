@@ -1,0 +1,34 @@
+D:\EMS\EMS\bin\Debug\EMS.exe.config
+D:\EMS\EMS\bin\Debug\EMS.exe
+D:\EMS\EMS\bin\Debug\EMS.pdb
+D:\EMS\EMS\obj\Debug\EMS.csproj.AssemblyReference.cache
+D:\EMS\EMS\obj\Debug\EMS.csproj.SuggestedBindingRedirects.cache
+D:\EMS\EMS\obj\Debug\EMS.EmployeeForm.resources
+D:\EMS\EMS\obj\Debug\EMS.MainForm.resources
+D:\EMS\EMS\obj\Debug\EMS.Properties.Resources.resources
+D:\EMS\EMS\obj\Debug\EMS.User_Form.resources
+D:\EMS\EMS\obj\Debug\EMS.csproj.GenerateResource.cache
+D:\EMS\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+D:\EMS\EMS\obj\Debug\EMS.exe
+D:\EMS\EMS\obj\Debug\EMS.pdb
+D:\EMS\EMS\obj\Debug\EMS.loginForm.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.csproj.AssemblyReference.cache
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.csproj.SuggestedBindingRedirects.cache
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.exe
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.pdb
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\bin\Debug\EMS.exe.config
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\bin\Debug\EMS.exe
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\bin\Debug\EMS.pdb
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.EmployeeForm.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.loginForm.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.Formtype.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.MainForm.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.Properties.Resources.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.User_Form.resources
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.csproj.GenerateResource.cache
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\bin\Debug\EMS.exe.manifest
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\bin\Debug\EMS.application
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.TrustInfo.xml
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.exe.manifest
+D:\First Semster\First Sem file\Employee Management System Files\EMS\EMS\obj\Debug\EMS.application
